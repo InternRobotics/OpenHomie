@@ -28,6 +28,7 @@
 
 ## 🔥 News
 
+- \[2026-07\] An important clarification: there is a homie v2 rl policy at https://github.com/NVlabs/GR00T-WholeBodyControl/tree/main/decoupled_wbc, which I made for some demos at gear. Also, directly use latest SONIC model is recommended.
 - \[2025-02\] We release the [paper](https://arxiv.org/abs/2502.13013) and demos of HOMIE.
 - \[2025-02\] We open all of the resources of HOMIE
 
